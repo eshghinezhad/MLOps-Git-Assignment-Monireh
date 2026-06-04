@@ -1,4 +1,4 @@
-# MLOps-Git-Assignment-Monireh
+# MLOps-Git-Assignment-Monireh | MAI201 | 2026-06-04
 # ------------------------------------------------------------
 # Student Name: Monireh Eshghinezhad    Student ID: 150705234
 # ------------------------------------------------------------
