@@ -1,5 +1,10 @@
-#  Assignment1_Report
+##  Assignment1_Report - Git Branching & Collaboration
 
+### Name: Monireh Eshghinezhad
+### Student ID: 150705234
+### Course: MAI201 - MLOps
+### Date: 2026-06-04
+---
 ## 1. GitHub Network Graph
 <img width="1109" height="616" alt="image" src="https://github.com/user-attachments/assets/d9149806-44c7-453a-8953-4956d0a2caf6" />
 
@@ -10,7 +15,7 @@
 ## 3.  git log --oneline --graph
 <img width="1571" height="835" alt="image" src="https://github.com/user-attachments/assets/8032e851-45e5-40e6-95e8-81c5be01f325" />
 
-## 4. Reflection — Merge Conflict Challenges
+## 4. Reflection - Merge Conflict Challenges
 The most challenging part for me was understanding WHEN 
 a conflict actually happens.
 
@@ -21,7 +26,7 @@ automatically merged both changes with no conflict at all.
 
 This confused me at first. I learned that Git is smart enough 
 to merge changes that are in different locations of the same 
-file — it only creates a conflict when two branches edit the 
+file, it only creates a conflict when two branches edit the 
 EXACT SAME LINE.
 
 In my second attempt, I edited Line 1 (the title) on both 
