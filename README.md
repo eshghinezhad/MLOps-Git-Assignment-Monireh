@@ -15,9 +15,9 @@ This assignment focuses on Git and version control skills.  We will practice bra
    python -m venv venv
 
 4. Activate the virtual environment
-   # Windows:
+   ### Windows:
    venv\Scripts\activate
-   # Mac/Linux:
+   ### Mac/Linux:
    source venv/bin/activate
 
 ## III- Prerequisites
