@@ -1,13 +1,11 @@
 
 # MLOps-Git-Assignment-Monireh | Monireh Eshghinezhad | ID: 150705234 | MAI201 | 2026-06-04
 
-# ------------------------------------------------------------
-# Student Name: Monireh Eshghinezhad    Student ID: 150705234
-# ------------------------------------------------------------
 
-# --------------------------------------
-# Course Code: MAI 201  ,   Current Date: 06-04-2026
-# --------------------------
+### Student Name: Monireh Eshghinezhad  ,  Student ID: 150705234
+### ------------------------------------------------------------
+### Course Code: MAI 201  ,   Current Date: 06-04-2026
+
 
 ## I- Project Description
 This peoject is for the MAI201_MLOps individual Assignment_01.
