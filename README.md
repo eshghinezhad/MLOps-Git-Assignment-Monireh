@@ -1,5 +1,10 @@
 # MLOps-Git-Assignment-Monireh
 
+
+
+                **Course Information**           
+                  Course Code:** MAI201
+                  Date:** 2026-06-04
 ## I- Project Description
 This peoject is for the MAI201_MLOps individual Assignment_01.
 This assignment focuses on Git and version control skills.  We will practice branching, merging, pull requests, and collaboration workflows and learn to develop MLOps processes for code versioning and user access.
